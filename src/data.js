@@ -1,25 +1,25 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "Argo Company Management System",
+    subtitle: "ASP.NET Core",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+      "This project still has a month left. Final project for my degree that streamlines company-wide tasks and communication with a user-friendly interface.",
+    image: "./argocms-screenshot.png",
+    link: "https://github.com/jakobfrederikson/ArgoCMS",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "Cloudroom",
+    subtitle: "Python/Flask and Javascript",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
+      "Team project made with the purpose to tackle online learning and make it efficient and fun.",
+    image: "./cloudroom-screenshot.png",
+    link: "https://github.com/jakobfrederikson/Cloudroom",
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
+    title: "React Portfolio",
+    subtitle: "React and Tailwind",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "What's one way of learning react? To create your portfolio with it.",
     image: "./project-3.gif",
     link: "https://reactbootcamp.com",
   },
@@ -51,10 +51,8 @@ export const testimonials = [
 ];
 
 export const skills = [
-  "JavaScript",
-  "React",
-  "Next.js",
-  "Node",
-  "GraphQL",
-  "Material UI",
+  "C#",
+  ".NET",
+  "Javascript",
+  "Python"
 ];

@@ -36,29 +36,21 @@ export default function Contact() {
               marginHeight={0}
               marginWidth={0}
               style={{ filter: "opacity(0.7)" }}
-              src="https://www.google.com/maps/embed/v1/place?q=97+warren+st+new+york+city&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"
+              src="https://www.google.com/maps/embed/v1/place?q=Upper+Hutt,+New+Zealand&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"
             />
+
             <div className="bg-gray-900 relative flex flex-wrap py-6 rounded shadow-md">
-              <div className="lg:w-1/2 px-6">
-                <h2 className="title-font font-semibold text-white tracking-widest text-xs">
-                  ADDRESS
-                </h2>
-                <p className="mt-1">
-                  97 Warren St. <br />
-                  New York, NY 10007
-                </p>
-              </div>
               <div className="lg:w-1/2 px-6 mt-4 lg:mt-0">
                 <h2 className="title-font font-semibold text-white tracking-widest text-xs">
                   EMAIL
                 </h2>
-                <a className="text-indigo-400 leading-relaxed">
-                  reedbarger@email.com
+                <a className="text-indigo-400 leading-relaxed" href="mailto: jakob.fred.work@gmail.com">
+                  jakob.fred.work@gmail.com
                 </a>
                 <h2 className="title-font font-semibold text-white tracking-widest text-xs mt-4">
                   PHONE
                 </h2>
-                <p className="leading-relaxed">123-456-7890</p>
+                <p className="leading-relaxed">021 025 29981</p>
               </div>
             </div>
           </div>
@@ -70,8 +62,7 @@ export default function Contact() {
               Hire Me
             </h2>
             <p className="leading-relaxed mb-5">
-              Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illum
-              suscipit officia aspernatur veritatis. Asperiores, aliquid?
+              When you click submit, you're sending me a virtual handshake. With a really firm grip. And we're shaking <a className="text-yellow-400 hover:text-yellow-500" href="https://tvtropes.org/pmwiki/pmwiki.php/Main/SpitShake#:~:text=Two%20people%20who%20have%20just,showing%20an%20actual%20Blood%20Oath." target="_blank">Blood Oath Lite</a> style, too.
             </p>
             <div className="relative mb-4">
               <label htmlFor="name" className="leading-7 text-sm text-gray-400">
@@ -109,7 +100,7 @@ export default function Contact() {
             </div>
             <button
               type="submit"
-              className="text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">
+              className="text-white bg-yellow-500 border-0 py-2 px-6 focus:outline-none hover:bg-yellow-600 rounded text-lg">
               Submit
             </button>
           </form>
