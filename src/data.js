@@ -24,12 +24,12 @@ export const projects = [
     link: "https://reactbootcamp.com",
   },
   {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
+    title: "React Blog",
+    subtitle: "React, Tailwind and Vite",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "I wanted to see what Vite was all about. So I made a blog! Go read and listen to my beautiful words.",
     image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://my-blog-five-gray.vercel.app/",
   },
 ];
 
