@@ -5,7 +5,7 @@ export const projects = [
     description:
       "This project still has a month left. Final project for my degree that streamlines company-wide tasks and communication with a user-friendly interface.",
     image: "./argocms-screenshot.png",
-    link: "https://github.com/jakobfrederikson/ArgoCMS",
+    link: "https://argocms-jakobdev.azurewebsites.net/",
   },
   {
     title: "Cloudroom",
