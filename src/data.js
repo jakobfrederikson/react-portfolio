@@ -25,11 +25,11 @@ export const projects = [
   },
   {
     title: "React Blog",
-    subtitle: "React, Tailwind and Vite",
+    subtitle: "React, TypeScript, Tailwind and Next.js",
     description:
-      "I wanted to see what Vite was all about. So I made a blog! Go read and listen to my beautiful words.",
+      "I have things to say, but it's much more elegant if I create an entire web application to do it for me.",
     image: "./project-4.gif",
-    link: "https://my-blog-five-gray.vercel.app/",
+    link: "my-blog-ten-wheat.vercel.app",
   },
 ];
 
