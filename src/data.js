@@ -4,7 +4,7 @@ export const projects = [
     subtitle: "C#, ASP.NET Core, EFCore, JavaScript, SignalR and Azure",
     description:
       "Workforce management application to organise tasks, teams and projects. Deployed to Azure!",
-    image: "./argocms-screenshot.png",
+    image: "./optimised_argo_gif.gif",
     link: "https://argocms-jakobdev.azurewebsites.net/",
   },
   {
