@@ -5,7 +5,7 @@ export const projects = [
     description:
       "Workforce management application to organise tasks, teams and projects. Deployed to Azure!",
     image: "./optimised_argo_gif.gif",
-    link: "https://argocms-jakobdev.azurewebsites.net/",
+    link: "https://github.com/jakobfrederikson/ArgoCMS",
   },
   {
     title: "Next.js Blog",
