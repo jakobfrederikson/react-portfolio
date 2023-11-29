@@ -20,7 +20,7 @@ export const projects = [
     subtitle: "Python, Flask and Javascript",
     description:
       "Team project made with the purpose to tackle online learning and make it efficient and fun.",
-    image: "./cloudroom-screenshot.png",
+    image: "./optimised_cloudroom_gif.gif",
     link: "https://github.com/jakobfrederikson/Cloudroom",
   },
   {
