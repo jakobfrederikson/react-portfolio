@@ -63,7 +63,7 @@ export default function Contact() {
               Hire Me
             </h2>
             <p className="leading-relaxed mb-5">
-              When you click submit, you're sending me a virtual handshake. With a really firm grip. And we're shaking <a className="text-yellow-400 hover:text-yellow-500" href="https://tvtropes.org/pmwiki/pmwiki.php/Main/SpitShake#:~:text=Two%20people%20who%20have%20just,showing%20an%20actual%20Blood%20Oath." target="_blank">Blood Oath Lite</a> style, too.
+              When you click submit, you're sending me a virtual handshake. With a really firm grip. And we're shaking <a className="text-yellow-400 hover:text-yellow-500" href="https://tvtropes.org/pmwiki/pmwiki.php/Main/SpitShake#:~:text=Two%20people%20who%20have%20just,showing%20an%20actual%20Blood%20Oath." rel="noopener noreferrer" target="_blank">Blood Oath Lite</a> style, too.
             </p>
             <div className="relative mb-4">
               <label htmlFor="name" className="leading-7 text-sm text-gray-400">

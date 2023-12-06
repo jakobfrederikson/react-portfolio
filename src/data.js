@@ -24,12 +24,12 @@ export const projects = [
     link: "https://github.com/jakobfrederikson/Cloudroom",
   },
   {
-    title: "React Portfolio",
-    subtitle: "React, Tailwind and Netlify",
+    title: "Sorting Algorithm Visualiser",
+    subtitle: "C++ and SFML",
     description:
-      "What's one way of learning react? To create your portfolio with it.",
-    image: "./portfolio.png",
-    link: "https://github.com/jakobfrederikson/react-portfolio",
+      "Used the SFML API to visualise sorting algorithms in C++. Included: Beeps tuned to rectangle heights.",
+    image: "./optimised_sav_gif.gif",
+    link: "https://github.com/jakobfrederikson/SortingAlgorithmVisualiser",
   },
 ];
 
